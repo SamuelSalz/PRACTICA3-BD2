@@ -1,0 +1,21 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+U001,Sebastián Torres,33,F,sebastián.torres@uao.edu.co,1992-06-03
+U002,Daniel Ramírez,48,Otro,daniel.ramírez@gmail.com,1977-06-07
+U003,Julián Ramírez,49,Otro,julián.ramírez@uao.edu.co,1976-06-07
+U004,Andrés López,39,M,andrés.lópez@gmail.com,1986-06-05
+U005,Laura López,31,Otro,laura.lópez@gmail.com,1994-06-03
+U006,Andrés Torres,28,M,andrés.torres@hotmail.com,1997-06-02
+U007,Ana Martínez,19,Otro,ana.martínez@outlook.com,2006-05-31
+U008,Juan Felipe Gómez,25,M,juan felipe.gómez@outlook.com,2000-06-01
+U009,Felipe Hernández,26,F,felipe.hernández@uao.edu.co,1999-06-02
+U010,Manuela Ramírez,47,M,manuela.ramírez@hotmail.com,1978-06-07
+U011,Ana Torres,39,Otro,ana.torres@outlook.com,1986-06-05
+U012,Tomás Hernández,21,Otro,tomás.hernández@outlook.com,2004-05-31
+U013,Diana Díaz,33,Otro,diana.díaz@yahoo.com,1992-06-03
+U014,Juan Felipe Torres,38,F,juan felipe.torres@hotmail.com,1987-06-05
+U015,Laura Rojas,18,F,laura.rojas@gmail.com,2007-05-31
+U016,Samuel Martínez,41,F,samuel.martínez@hotmail.com,1984-06-05
+U017,Ana Hernández,46,F,ana.hernández@hotmail.com,1979-06-07
+U018,Mateo Martínez,25,M,mateo.martínez@outlook.com,2000-06-01
+U019,Carlos López,33,M,carlos.lópez@hotmail.com,1992-06-03
+U020,Manuela Ramírez,27,Otro,manuela.ramírez@yahoo.com,1998-06-02
