@@ -8,7 +8,7 @@ La práctica está basada en el modelado de una plataforma tipo Netflix, donde l
 
 Integrantes del equipo
 
-- Carlos Chacala  
+- Carlos Chalaca 
 - Samuel Salazar  
 - Juan Felipe Ballesteros
 
