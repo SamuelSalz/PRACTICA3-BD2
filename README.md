@@ -17,15 +17,18 @@ Integrantes del equipo
 Archivos incluidos
 
 - `usuarios.csv`  
-- `contenidos.csv`  
-- `generos.csv`  
-- `idiomas.csv`  
-- `paises.csv`  
-- `temporadas.csv`  
-- `vio_un.csv`  
-- `le_gusta.csv`  
-- `disponible_en.csv`  
-- `contiene.csv`  
+- `Contenidos.csv`  
+- `Generos.csv`  
+- `Idiomas.csv`  
+- `Paises.csv`  
+- `Temporadas.csv`  
+- `Usuario_Vio_Contenido.csv`  
+- `Usuario_gusta_contenido.csv`  
+- `Contenido_Disponible_En.csv`  
+- `Contenido_Capitulos.csv`
+- `Contenido_Genero.csv`
+- `Contenido_idioma.csv`
+- `Usuario_Reside_En.csv`
 
 Entrega
 
