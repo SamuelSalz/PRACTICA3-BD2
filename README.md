@@ -10,7 +10,7 @@ Integrantes del equipo
 
 - Carlos Chalaca 
 - Samuel Salazar  
-- Juan Felipe Ballesteros
+- Juan Camilo Ballesteros
 
 
 
