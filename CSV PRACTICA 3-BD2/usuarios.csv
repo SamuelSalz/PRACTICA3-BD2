@@ -1,0 +1,21 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+U001,Juan Pérez,48,M,juan.pérez@outlook.com,1970-11-15
+U002,Ana Gómez,22,F,ana.gómez@gmail.com,1990-09-10
+U003,Carlos Rodríguez,33,F,carlos.rodríguez@javeriana.edu.co,1983-10-22
+U004,Luisa Martínez,49,M,luisa.martínez@yahoo.com,1987-01-06
+U005,Andrés Torres,41,Otro,andrés.torres@javeriana.edu.co,1993-10-18
+U006,María Fernanda López,50,F,maría.fernanda.lópez@uao.edu.co,1989-12-13
+U007,Julián Ramírez,25,Otro,julián.ramírez@gmail.com,1980-06-01
+U008,Daniela Castro,53,M,daniela.castro@outlook.com,2001-09-01
+U009,Camilo Herrera,41,Otro,camilo.herrera@gmail.com,1992-01-09
+U010,Paula Morales,18,F,paula.morales@javeriana.edu.co,1985-07-08
+U011,Santiago Ríos,45,M,santiago.ríos@gmail.com,1971-03-04
+U012,Valentina Ruiz,29,F,valentina.ruiz@gmail.com,2002-10-10
+U013,Mateo Vargas,54,M,mateo.vargas@yahoo.com,1985-07-28
+U014,Laura Camacho,50,Otro,laura.camacho@yahoo.com,1973-11-23
+U015,Sebastián Pardo,52,M,sebastián.pardo@gmail.com,1993-03-19
+U016,Isabela Niño,23,M,isabela.niño@yahoo.com,2004-04-29
+U017,Tomás Mejía,41,Otro,tomás.mejía@outlook.com,1972-08-20
+U018,Gabriela Salcedo,53,M,gabriela.salcedo@hotmail.com,1985-03-09
+U019,Samuel Cárdenas,25,M,samuel.cárdenas@hotmail.com,1988-08-19
+U020,Sara Barreto,22,F,sara.barreto@yahoo.com,2000-08-04

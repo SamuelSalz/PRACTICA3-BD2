@@ -1,0 +1,21 @@
+codigo,nombre,descripcion
+G01,Acción,Contenido relacionado con el género acción.
+G02,Aventura,Contenido relacionado con el género aventura.
+G03,Animación,Contenido relacionado con el género animación.
+G04,Ciencia Ficción,Contenido relacionado con el género ciencia ficción.
+G05,Comedia,Contenido relacionado con el género comedia.
+G06,Crimen,Contenido relacionado con el género crimen.
+G07,Documental,Contenido relacionado con el género documental.
+G08,Drama,Contenido relacionado con el género drama.
+G09,Familia,Contenido relacionado con el género familia.
+G10,Fantasía,Contenido relacionado con el género fantasía.
+G11,Historia,Contenido relacionado con el género historia.
+G12,Misterio,Contenido relacionado con el género misterio.
+G13,Música,Contenido relacionado con el género música.
+G14,Romance,Contenido relacionado con el género romance.
+G15,Suspenso,Contenido relacionado con el género suspenso.
+G16,Terror,Contenido relacionado con el género terror.
+G17,Guerra,Contenido relacionado con el género guerra.
+G18,Western,Contenido relacionado con el género western.
+G19,Superhéroes,Contenido relacionado con el género superhéroes.
+G20,Biografía,Contenido relacionado con el género biografía.
